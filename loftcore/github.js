@@ -11,13 +11,13 @@ const path = require('path');
  */
 async function githubCommand(sock, chatId, message) {
   const repoUrl = 'https://api.github.com/repos/xmdloft23/loft-quantum';
-  const imagePath = path.resolve(__dirname, 'image.jpg');
+  const imagePath = path.resolve(./image.jpg');
 
   // Check if image exists first
   if (!fs.existsSync(imagePath)) {
     return sock.sendMessage(
       chatId,
-      { text: '⚠️ Bot image (image.jpg) not found in the bot directory!' },
+      { text: '⚠️ Bot image (image) not found in the bot directory!' },
       { quoted: message }
     );
   }
