@@ -21,7 +21,7 @@ Zero setup · 24/7 online · Lightning fast
 
 <div align="center">
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/⚡ DEPLOY SASA HAPA (Instant)-00ff88?style=for-the-badge&logo=rocket&logoColor=black" alt="Deploy Instant"/>
+    <img src="https://img.shields.io/badge/⚡ BOT HOSTING NET (Instant)-00ff88?style=for-the-badge&logo=rocket&logoColor=black" alt="Deploy Instant"/>
   </a>
 </div>
 
@@ -70,7 +70,7 @@ Want to run it locally or on your own server? Grab the complete package instantl
     <strong>🔒 Military-Grade Uptime • Anti-Crash System • 24/7 Auto-Restart • Premium Support</strong>
   </p>
   <p>
-    <em>Over 15,000+ elite developers already dominating with Loft Quantum 💜</em>
+    <em>Over 15,000+ elite developers already dominating with Loft Quantum</em>
   </p>
   <img src="https://i.imgur.com/OeY9l9V.gif" width="120"/>
 </div>
