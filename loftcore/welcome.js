@@ -82,7 +82,7 @@ async function handleJoinEvent(sock, id, participants) {
             // Try to send with image first (always try images)
             try {
                 // Get user profile picture
-                let profilePicUrl = `https://img.pyrocdn.com/dbKUgahg.png`; // Default avatar
+                let profilePicUrl = `./welcome.jpg`; // Default avatar
                 try {
                     const profilePic = await sock.profilePictureUrl(participantString, 'image');
                     if (profilePic) {
